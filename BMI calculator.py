@@ -1,8 +1,7 @@
 """
 BMI App
-Author: Sebastian Staniewski
 Email:  atenajos@gmail.com
-Phone Number: 0862526257
+
 
 """
 
